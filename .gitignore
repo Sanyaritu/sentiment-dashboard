@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+data/Reviews.csv
+data/reviews_sample.csv
+data/reviews_clean.csv
+.env
