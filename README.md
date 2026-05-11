@@ -3,7 +3,7 @@
 End-to-end NLP project classifying Amazon product reviews as Positive, Neutral, or Negative using Machine Learning.
 
 ## 🔗 Live Demo
-[Click here](#) ← update after deployment
+https://sentiment-dashboard-xierodhzllvqkpmf7cnchd.streamlit.app/(#) ← update after deployment
 
 ## 📊 Model Performance
 | Class | F1-Score |
