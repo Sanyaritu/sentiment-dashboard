@@ -17,7 +17,7 @@ https://sentiment-dashboard-xierodhzllvqkpmf7cnchd.streamlit.app/(#) ← update 
 Python · scikit-learn · NLTK · Streamlit · Plotly
 
 ## 🚀 Run Locally
-git clone https://github.com/YOUR_USERNAME/sentiment-dashboard
+git clone https://github.com/Sanyaritu/sentiment-dashboard
 cd sentiment-dashboard
 pip install -r requirements.txt
 streamlit run app.py
